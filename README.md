@@ -1,6 +1,6 @@
 # Exploratory_Data_Analysis_on_Python
 
-# **Exploratory Data Analysis (EDA) on Python.**
+
 
 <br>
 
@@ -11,11 +11,11 @@ Performed the Following:
 
 **1. ROCCC for the Reliability of the Dataset**
 The dataset follows the ROCCC Analysis as described below:
-Reliable - yes, not biased
-Original - yes, can locate the original public data
-Comprehensive - yes, not missing important information
-Current - yes, updated monthly
-Cited - yes
+- Reliable - yes, not biased
+- Original - yes, can locate the original public data
+- Comprehensive - yes, not missing important information
+- Current - yes, updated monthly
+- Cited - yes
 
 <br>
 
