@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis(EDA)_on_Python
+# Exploratory Data Analysis(EDA) on Python
 
 <img width="453" alt="Capstone EDA pic" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_on_Python/assets/117270964/7e2fbe36-a761-4230-a501-ea8beeb478d9">
 
