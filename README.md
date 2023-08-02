@@ -1,6 +1,9 @@
 # Exploratory Data Analysis(EDA) on Python
 
-<img width="453" alt="Capstone EDA pic" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_on_Python/assets/117270964/7e2fbe36-a761-4230-a501-ea8beeb478d9">
+<img width="395" alt="Capstone FINAL EDA - revision by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/a58e504f-0097-463a-9664-86448e47f63d">
+
+
+
 
 
 <br>
@@ -31,6 +34,9 @@ The dataset follows the ROCCC Analysis as described below:
 
 ## **2. Data Cleaning**
 
+<img width="383" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/f4a43810-577d-4852-bf21-4af65f088ba7">
+
+
 We dealt with 5 batches with around 4.1 million rows of data in total
 
 - Filtered the dataset to only include data from “City of Manila”
@@ -49,6 +55,9 @@ One of our groupmates Erwin did a lot of Data Cleaning and I learned a lot from 
 
 
 ## **2. Exploratory Data Analysis**
+
+<img width="378" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/e258b314-f387-41d5-9079-c35b0508c939">
+
 
 We performed multiple Data Visualizations on our merged and cleaned Datasets
 
