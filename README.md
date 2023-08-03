@@ -60,7 +60,7 @@ One of our groupmates Erwin did a lot of Data Cleaning and I learned a lot from 
 <br>
 
 
-## **2. Exploratory Data Analysis**
+## **3. Exploratory Data Analysis**
 
 <img width="378" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/e258b314-f387-41d5-9079-c35b0508c939">
 
@@ -72,7 +72,7 @@ I posted the Jupyter Notebook that covers all of it.
 <br>
 <br>
 
-## **3. Key Findings**
+## **4. Key Findings**
 
 
 
@@ -80,12 +80,59 @@ I posted the Jupyter Notebook that covers all of it.
 <br>
 <br>
 
-## **4. Conclusion and Recommendations**
+## **5. Conclusion and Recommendations**
 
 
 <img width="451" alt="actions taken early vs later" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/5b9d9068-7931-42b1-ac2d-d846ffd7b4ec">
 
+### 1. We recommend that people get vaccinated and take the booster shots, as the data clearly shows a large drop in cases once the vaccines started rolling out.
 
+<br><br>
+
+### 2. It is recommended that the elderly and senior citizens have minimal contact with many people since they have the highest fatality rate out of all the Age Groups that contracted the virus in this dataset.
+
+<br><br>
+
+### 3. As they say: “an ounce of prevention is worth a pound of cure”
+Neighbors such as Singapore, Taiwan, and Vietnam swiftly implemented preventive measures.
+- large-scale public health campaigns 
+- calibrated restrictions on public events and gatherings
+- proactive contact tracing to prevent intra-community transmission 
+- Regular and transparent communication between top officials and the citizenry.
+
+<br><br>
+
+### 4. Don’t be Complacent 
+- There was a huge spike in cases back in January 2022, most likely due to Holiday gatherings, complacency, and the presence of the Omicron variant
+
+http://www.cnnphilippines.com/news/2022/1/1/PH-COVID-19-cases-New-Year-s-Day-.html
+
+https://www.reuters.com/business/healthcare-pharmaceuticals/philippines-confirms-community-transmission-omicron-cases-hit-record-2022-01-15/
+
+<br><br>
+
+### 5. Quarantine protocols are effective. 
+If a person tests positive for COVID, they should immediately take action.
+
+Summary:
+- Number of people who survived: 17,968
+- Number of people who died: 252
+- Percentage of people who survived: 98.61%
+- Percentage of people who died: 1.39%
+
+This analysis shows that **the majority of people who were quarantined (98.61%) survived, while a small percentage (1.39%) unfortunately died.** 
+The data suggests that the quarantine protocols had a relatively high effectiveness in preventing fatalities during the quarantine period.
+
+<br><br>
+
+
+### 6. We should learn from our neighboring Countries and the Government should act swiftly in times like these. 
+
+If the travel ban on airports was implemented earlier, it could have lessened the spread of the virus.
+
+Imagine the number of lives you can save.
+
+In a situation where actions taken early can have a much bigger impact than actions taken later, time is a crucial factor.
 
 <br>
 <br>
