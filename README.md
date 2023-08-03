@@ -10,11 +10,17 @@
 
 ### EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
 
+<br>
+
+Link to the slideshow/Presentation:
+
+https://docs.google.com/presentation/d/14flA5fAz6sI6FoIZjT0i-NIM9b48pMiJRTlnwcdTRK8/edit?usp=sharing  
+
 <br><br>
 
-We used COVID-19 Data from the Dept. of Health for this Capstone Project.
+We used COVID-19 data from the Dept. of Health for this Capstone Project.
 
-Performed the Following:
+We performed the following:
 
 <br>
 
@@ -37,13 +43,13 @@ The dataset follows the ROCCC Analysis as described below:
 <img width="383" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/f4a43810-577d-4852-bf21-4af65f088ba7">
 
 
-We dealt with 5 batches with around 4.1 million rows of data in total
+We dealt with 5 batches containing around 4.1 million rows of data in total
 
-- Filtered the dataset to only include data from “City of Manila”
+- Filtered the dataset to only include data from the “City of Manila”
 - Checked for Duplicates
 - Checked for Missing/Null Values
 - Dropped Unnecessary Columns
-- Replaced the null values with an appropriate data like “Not Recorded”
+- Replaced the null values with appropriate data like “Not Recorded”
 - Merged the five cleaned datasets into one 
 
 I posted a Jupyter notebook of one of the batches (batch 4) that shows how we did our Data Cleaning.
@@ -69,21 +75,15 @@ I posted the Jupyter Notebook that covers all of it.
 ## **3. Key Findings**
 
 
-<br>
-<br>
 
+
+<br>
+<br>
 
 ## **4. Conclusion and Recommendations**
 
 
 <br>
-<br>
-
-
-## **5. Presentation Slides:**
-
-TBA
-
 <br>
 <br>
 <br>
