@@ -83,6 +83,10 @@ I posted the Jupyter Notebook that covers all of it.
 ## **4. Conclusion and Recommendations**
 
 
+<img width="451" alt="actions taken early vs later" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/5b9d9068-7931-42b1-ac2d-d846ffd7b4ec">
+
+
+
 <br>
 <br>
 <br>
