@@ -72,7 +72,7 @@ I learned a lot from him and became more confident and competent in my Data Clea
 
 We performed multiple Data Visualizations on our merged and cleaned Datasets
 
-I posted the Jupyter Notebook that covers all of it.
+I posted the Jupyter Notebook that covers all of including my revised Data Visualizations
 
 <br>
 <br>
