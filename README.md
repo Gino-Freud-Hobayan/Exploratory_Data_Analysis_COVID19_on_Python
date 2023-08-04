@@ -59,7 +59,7 @@ I posted a Jupyter notebook of one of the batches (**"batch_4_covid_manilaupdate
 
 One of our groupmates Erwin did a lot of Data Cleaning 
 
-and in the process, I learned a lot from him and became more confident in my Data Cleaning skills in Python.
+I learned a lot from him and became more confident and competent in my Data Cleaning skills in Python.
 
 <br>
 <br>
@@ -82,7 +82,7 @@ I posted the Jupyter Notebook that covers all of it.
 1. Age group **25-29** has the Highest number of cases, followed shortly by **30-34** and **20-24**, most likely these are the F2F and Healthcare workers who are in contact with a large number of people daily.
 
 2. Most of the deaths occurred for Ages 50 and up. One of the reasons might be comorbidities that come with older age.
-3. We have seen earlier that the age group of 25 to 29 had the highest number of cases but had one of the least number of deaths.
+3. We have seen earlier that **the age group of 25 to 29 had the highest number of cases but they had one of the least number of deaths.**
 4. Several counts of death in children and adolescents were observed. These deaths are uncommon, and their deaths might also be linked to some underlying conditions. Additionally, for infants, a possible reason may be that their immune system is not yet well developed.
 
 
@@ -94,7 +94,7 @@ I posted the Jupyter Notebook that covers all of it.
 7. The dataset contains **ages ranging from 2 to 80 yrs old (spread)**, with a **median age of 32 years.**
 
 
-8. The majority of individuals fall between ages 27 and 47, as indicated by the interquartile range (IQR) of 20. 
+8. **The majority of individuals fall between ages 27 and 47**, as indicated by the interquartile range (IQR) of 20. 
 
     This indicates that **the data might be slightly positively skewed**. This means that the distribution may have a longer tail on the right (higher) side.
 
@@ -177,7 +177,7 @@ If the travel ban on airports was implemented earlier, it could have lessened th
 
 Imagine the number of lives you can save.
 
-In a situation where actions taken early can have a much bigger impact than actions taken later, time is a crucial factor.
+In a situation where **actions taken early** can have a much bigger impact than actions taken later, time is a crucial factor.
 
 <br>
 <br>
