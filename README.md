@@ -55,7 +55,11 @@ We dealt with 5 batches containing around 4.1 million rows of data in total
 
 I posted a Jupyter notebook of one of the batches (batch 4) that shows how we did our Data Cleaning.
 
-One of our groupmates Erwin did a lot of Data Cleaning and I learned a lot from him.
+<br>
+
+One of our groupmates Erwin did a lot of Data Cleaning 
+
+and in the process, I learned a lot from him and became more confident in my Data Cleaning skills in Python.
 
 <br>
 <br>
