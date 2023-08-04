@@ -53,7 +53,7 @@ We dealt with 5 batches containing around 4.1 million rows of data in total
 - Replaced the null values with appropriate data like “Not Recorded”
 - Merged the five cleaned datasets into one 
 
-I posted a Jupyter notebook of one of the batches (**batch_4_covid_manilaupdated3**) that shows how we did our Data Cleaning.
+I posted a Jupyter notebook of one of the batches (**"batch_4_covid_manilaupdated3.ipynb"**) that shows how we did our Data Cleaning.
 
 <br>
 
