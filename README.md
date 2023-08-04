@@ -53,7 +53,7 @@ We dealt with 5 batches containing around 4.1 million rows of data in total
 - Replaced the null values with appropriate data like “Not Recorded”
 - Merged the five cleaned datasets into one 
 
-I posted a Jupyter notebook of one of the batches (batch 4) that shows how we did our Data Cleaning.
+I posted a Jupyter notebook of one of the batches (**batch_4_covid_manilaupdated3**) that shows how we did our Data Cleaning.
 
 <br>
 
@@ -77,7 +77,47 @@ I posted the Jupyter Notebook that covers all of it.
 <br>
 <br>
 
-## **4. Key Findings**
+## **4. Key Findings:**
+
+1. Age group **25-29** has the Highest number of cases, followed shortly by **30-34** and **20-24**, most likely these are the F2F and Healthcare workers who are in contact with a large number of people daily.
+
+2. Most of the deaths occurred for Ages 50 and up. One of the reasons might be comorbidities that come with older age.
+3. We have seen earlier that the age group of 25 to 29 had the highest number of cases but had one of the least number of deaths.
+4. Several counts of death in children and adolescents were observed. These deaths are uncommon, and their deaths might also be linked to some underlying conditions. Additionally, for infants, a possible reason may be that their immune system is not yet well developed.
+
+
+5. A huge spike in the number of cases occurred from 2020-2021.
+
+6. Administration of COVID-19 vaccines helped reduce the number of cases
+
+
+7. The dataset contains **ages ranging from 2 to 80 yrs old (spread)**, with a **median age of 32 years.**
+
+
+8. The majority of individuals fall between ages 27 and 47, as indicated by the interquartile range (IQR) of 20. 
+
+    This indicates that **the data might be slightly positively skewed**. This means that the distribution may have a longer tail on the right (higher) side.
+
+
+9. **The presence of an 80-year-old individual may be considered an outlier**, indicating an unusual or extreme age compared to the rest of the dataset. 
+
+<br>
+
+### Overall, the data exhibits a diverse age distribution, with a notable concentration of cases in the middle age range.
+
+    
+<br><br>
+
+     
+## **Limitations:**
+    
+1. The analysis is based on the available dataset from DOH. 
+
+    Data for 2023 is currently inconclusive and is still being updated by DOH. 
+
+    Additionally, the dataset contains a lot of null values thus affecting the accuracy of the analysis.
+    
+    <br> 
 
 
 
