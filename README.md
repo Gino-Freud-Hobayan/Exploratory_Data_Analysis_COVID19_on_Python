@@ -13,9 +13,11 @@
 
 <br>
 
-Link to the slideshow/Presentation:
 
-https://docs.google.com/presentation/d/14flA5fAz6sI6FoIZjT0i-NIM9b48pMiJRTlnwcdTRK8/edit?usp=sharing  
+Link to the Google Drive
+- Slideshow/Presentation: https://docs.google.com/presentation/d/14flA5fAz6sI6FoIZjT0i-NIM9b48pMiJRTlnwcdTRK8/edit?usp=sharing  
+
+- covid2020-2023.csv: https://drive.google.com/drive/folders/1LRZy4zms4wMs-iYtKuLsUbMuhy6gyuwB?usp=sharing
 
 <br><br>
 
