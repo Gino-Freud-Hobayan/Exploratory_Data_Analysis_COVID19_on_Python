@@ -1,6 +1,7 @@
 # Exploratory Data Analysis(EDA) on Python
 
-<img width="395" alt="Capstone FINAL EDA - revision by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/a58e504f-0097-463a-9664-86448e47f63d">
+<img width="450" alt="Capstone FINAL EDA - revised by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/70788327-5f2b-48b2-a79c-5693d7984ec9">
+
 
 
 
