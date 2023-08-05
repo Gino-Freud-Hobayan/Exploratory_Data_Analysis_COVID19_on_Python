@@ -44,7 +44,7 @@ The dataset follows the ROCCC Analysis as described below:
 
 ## **2. Data Cleaning**
 
-<img width="383" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/f4a43810-577d-4852-bf21-4af65f088ba7">
+<img width="377" alt="Data cleaning pic" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/f540d704-b3ea-4e65-9b85-aa0667b15642">
 
 
 We dealt with 5 batches containing around 4.1 million rows of data in total
@@ -70,7 +70,8 @@ I learned a lot from him and became more confident and competent in my Data Clea
 
 ## **3. Exploratory Data Analysis**
 
-<img width="378" alt="image" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/e258b314-f387-41d5-9079-c35b0508c939">
+<img width="376" alt="EDA pic1" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/7277fb63-1921-4e30-aa8e-ec7d3b7a73b5">
+
 
 
 We performed multiple Data Visualizations on our merged and cleaned Datasets
@@ -134,8 +135,9 @@ I posted the Jupyter Notebook that covers all of it including my revised Data Vi
 
 ## **5. Conclusion and Recommendations**
 
+<img width="451" alt="actions taken early vs later" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/b726b0b2-e760-42c5-9f88-1697cb1d1d46">
 
-<img width="451" alt="actions taken early vs later" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/5b9d9068-7931-42b1-ac2d-d846ffd7b4ec">
+
 
 ### 1. We recommend that people get vaccinated and take the booster shots, as the data clearly shows a large drop in cases once the vaccines started rolling out.
 
@@ -191,4 +193,4 @@ In a situation where **actions taken early** can have a much bigger impact than 
 <br>
 <br>
 
-![Thank you wordcloud](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_on_Python/assets/117270964/9fced8a6-ec0e-4164-bc2a-1a408e0c3907)
+![Thank you wordcloud1](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/014fff25-dd93-47dc-a37e-189110787894)
