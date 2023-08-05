@@ -74,10 +74,14 @@ I learned a lot from him and became more confident and competent in my Data Clea
 
 We performed multiple Data Visualizations on our merged and cleaned Datasets
 
-I posted the Jupyter Notebook that covers all of including my revised Data Visualizations
+I posted the Jupyter Notebook that covers all of it including my revised Data Visualizations
+
+(**"EDA_covid_manila_FINAL_Gino.ipynb"**)
 
 <br>
 <br>
+<br>
+
 
 ## **4. Key Findings:**
 
