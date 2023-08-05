@@ -60,7 +60,7 @@ I posted a Jupyter notebook of one of the batches (**"batch_4_covid_manilaupdate
 
 <br>
 
-One of our groupmates Erwin did the bulk of Data Cleaning 
+One of our groupmates Erwin did the Majority of the Data Cleaning 
 
 I learned a lot from him and became more confident and competent in my Data Cleaning skills in Python.
 
