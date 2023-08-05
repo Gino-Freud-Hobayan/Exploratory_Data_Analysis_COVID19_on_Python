@@ -16,7 +16,7 @@
 
 
 Link to the Google Drive
-- Slideshow/Presentation: https://docs.google.com/presentation/d/14flA5fAz6sI6FoIZjT0i-NIM9b48pMiJRTlnwcdTRK8/edit?usp=sharing  
+- Slideshow/Presentation: [https://docs.google.com/presentation/d/14flA5fAz6sI6FoIZjT0i-NIM9b48pMiJRTlnwcdTRK8/edit?usp=sharing  ](https://drive.google.com/file/d/1bDyJTsF0UFhrhkldfWvFMxq_NXGu3VD3/view?usp=sharing)
 
 - covid2020-2023.csv: https://drive.google.com/drive/folders/1LRZy4zms4wMs-iYtKuLsUbMuhy6gyuwB?usp=sharing
 
