@@ -188,6 +188,10 @@ Imagine the number of lives you can save.
 
 In a situation where **actions taken early** can have a much bigger impact than actions taken later, time is a crucial factor.
 
+<img width="534" alt="Save one life EDA" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/625129fe-c56d-4aae-9ca1-7eb3f839407c">
+
+
+
 <br>
 <br>
 <br>
