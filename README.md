@@ -89,8 +89,8 @@ I posted the Jupyter Notebook that covers all of it including my revised Data Vi
 
 1. Age group **25-29** has the Highest number of cases, followed shortly by **30-34** and **20-24**, most likely these are the F2F and Healthcare workers who are in contact with a large number of people daily.
 
-2. Most of the deaths occurred for Ages 50 and up. One of the reasons might be comorbidities that come with older age.
-3. We have seen earlier that **the age group of 25 to 29 had the highest number of cases but they had one of the least number of deaths.**
+2. Most of the deaths occurred for Ages 50 and up. One of the reasons might be comorbidities that come with older age and a weaker immune system.
+3. We have seen earlier that **the age group of 25 to 29 had the highest number of cases yet they had one of the least number of deaths.**
 4. Several counts of death in children and adolescents were observed. These deaths are uncommon, and their deaths might also be linked to some underlying conditions. Additionally, for infants, a possible reason may be that their immune system is not yet well developed.
 
 
