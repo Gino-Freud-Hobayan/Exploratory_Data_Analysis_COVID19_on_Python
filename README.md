@@ -50,7 +50,7 @@ The dataset follows the ROCCC Analysis as described below:
 <img width="377" alt="Data cleaning pic" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/f540d704-b3ea-4e65-9b85-aa0667b15642">
 
 
-We dealt with 5 batches containing around 4.1 million rows of data in total.
+We dealt with 5 batches containing 4.1 million + rows of data in total.
 
 After filtering it, we now only had 168,000 + rows of data to work with.
 
