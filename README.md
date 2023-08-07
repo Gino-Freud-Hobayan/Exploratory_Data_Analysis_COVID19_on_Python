@@ -52,7 +52,7 @@ The dataset follows the ROCCC Analysis as described below:
 
 We dealt with 5 batches containing 4.1 million + rows of data in total.
 
-After filtering it, we now only had 168,000 + rows of data to work with.
+After filtering and data cleaning, we now only had 168,000 + rows of data to work with.
 
 <br>
 
