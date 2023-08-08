@@ -168,9 +168,9 @@ Neighbors such as Singapore, Taiwan, and Vietnam swiftly implemented preventive 
 ### 4. Don’t be Complacent 
 - There was a huge spike in cases back in January 2022, most likely due to Holiday gatherings, complacency, and the presence of the Omicron variant
 
-http://www.cnnphilippines.com/news/2022/1/1/PH-COVID-19-cases-New-Year-s-Day-.html
+    http://www.cnnphilippines.com/news/2022/1/1/PH-COVID-19-cases-New-Year-s-Day-.html
 
-https://www.reuters.com/business/healthcare-pharmaceuticals/philippines-confirms-community-transmission-omicron-cases-hit-record-2022-01-15/
+    https://www.reuters.com/business/healthcare-pharmaceuticals/philippines-confirms-community-transmission-omicron-cases-hit-record-2022-01-15/
 
 <br><br>
 
