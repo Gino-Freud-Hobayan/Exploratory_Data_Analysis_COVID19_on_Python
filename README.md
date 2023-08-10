@@ -87,12 +87,35 @@ I learned a lot from him and became more confident and competent in my Data Clea
 
 <img width="376" alt="EDA pic1" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/7277fb63-1921-4e30-aa8e-ec7d3b7a73b5">
 
+```
+import numpy as np 
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+
+
+    # Library to perform Statistical Analysis.
+from scipy import stats
+from scipy.stats import chi2
+from scipy.stats import chi2_contingency
+
+    # Library to Display whole Dataset.
+pd.set_option("display.max.columns",None)
+pd.set_option("display.max.rows",None)
+
+    # to suppress warnings
+import warnings
+warnings.filterwarnings('ignore')
+
+
+covid_df = pd.read_csv("covid2020-2023.csv")
+```
 
 
 We performed multiple Data Visualizations on our merged and cleaned Datasets
 
-I posted the Jupyter Notebook that covers all of it including my revised Data Visualizations
-
+I posted the Jupyter Notebook that covers all of it including my revised Data Visualizations 
 #### (**"EDA_covid_manila_FINAL_Gino.ipynb"**)
 
 <br>
