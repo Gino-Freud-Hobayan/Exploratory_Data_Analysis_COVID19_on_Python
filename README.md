@@ -134,13 +134,14 @@ I posted the Jupyter Notebook that covers all of it including my revised Data Vi
      
 ## **Limitations:**
     
-1. The analysis is based on the available dataset from DOH. 
+#### The analysis is based on the available dataset from DOH. 
 
-    Data for 2023 is currently inconclusive and is still being updated by DOH. 
+#### Data for 2023 is currently inconclusive and is still being updated by DOH. 
 
-    Additionally, the dataset contains a lot of null values thus affecting the accuracy of the analysis.
+#### Additionally, the dataset contains a lot of null values thus affecting the accuracy of the analysis.
     
-    <br> 
+
+<br> 
 
 
 
