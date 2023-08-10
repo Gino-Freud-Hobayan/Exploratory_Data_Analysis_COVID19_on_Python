@@ -1,7 +1,11 @@
 # Exploratory Data Analysis(EDA) on Python
 
-<img width="450" alt="Capstone FINAL EDA - revised by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/d5ca65be-6b73-4637-9209-496cac7e9d0c">
+<br>
 
+## Capstone Project for our 6-week Python Bootcamp: [Data Vanguard](https://datavanguard.ph/)
+
+
+<img width="450" alt="Capstone FINAL EDA - revised by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/d5ca65be-6b73-4637-9209-496cac7e9d0c">
 
 
 
@@ -87,7 +91,7 @@ We performed multiple Data Visualizations on our merged and cleaned Datasets
 
 I posted the Jupyter Notebook that covers all of it including my revised Data Visualizations
 
-(**"EDA_covid_manila_FINAL_Gino.ipynb"**)
+#### (**"EDA_covid_manila_FINAL_Gino.ipynb"**)
 
 <br>
 <br>
