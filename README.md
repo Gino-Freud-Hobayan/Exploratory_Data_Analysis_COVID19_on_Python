@@ -87,7 +87,7 @@ I learned a lot from him and became more confident and competent in my Data Clea
 
 <img width="376" alt="EDA pic1" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/7277fb63-1921-4e30-aa8e-ec7d3b7a73b5">
 
-```
+```python
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
