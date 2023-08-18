@@ -29,15 +29,15 @@
 
 <br><br><br>
 
-## Awards:
+# Awards:
 
-Best Data Handling:
+### Best Data Handling:
 ![Best_data_handling_-_Alchemist_page-0001](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/e0685018-e859-4f53-8d5e-6c27a195adc9)
 
 
 <br>
 
-Best Storytelling:
+### Best Storytelling:
 ![Best_storytelling_-Alchemist_page-0001](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/60d9a111-97d6-48e5-b990-4a4c883c847b)
 
 
