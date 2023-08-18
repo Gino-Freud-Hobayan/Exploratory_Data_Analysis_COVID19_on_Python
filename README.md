@@ -27,7 +27,25 @@
 
 ### - covid2020-2023.csv: https://drive.google.com/drive/folders/1LRZy4zms4wMs-iYtKuLsUbMuhy6gyuwB?usp=sharing
 
-<br><br>
+<br><br><br>
+
+## Awards:
+
+Best Data Handling:
+![Best_data_handling_-_Alchemist_page-0001](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/e0685018-e859-4f53-8d5e-6c27a195adc9)
+
+
+<br>
+
+Best Storytelling:
+![Best_storytelling_-Alchemist_page-0001](https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/60d9a111-97d6-48e5-b990-4a4c883c847b)
+
+
+
+<br>
+<br>
+<br>
+
 
 We used COVID-19 data from the Dept. of Health for this Capstone Project.
 
