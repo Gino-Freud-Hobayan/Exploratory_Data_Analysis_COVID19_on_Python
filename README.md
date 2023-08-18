@@ -2,7 +2,7 @@
 
 <br>
 
-### Capstone Project
+# Capstone Project
 
 ### Python for Data Analysis Bootcamp: [Data Vanguard](https://datavanguard.ph/)
 
