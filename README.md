@@ -6,17 +6,16 @@
 
 ### Python for Data Analysis Bootcamp: [Data Vanguard](https://datavanguard.ph/)
 
+### EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
+
 
 <img width="450" alt="Capstone FINAL EDA - revised by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/d5ca65be-6b73-4637-9209-496cac7e9d0c">
 
+<br><br>
+
+<img width="581" alt="Python - cert of completion" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/4f68fdb4-9603-40b6-b362-560f5ba57bae">
 
 
-
-
-
-<br>
-
-### EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
 
 <br>
 <br>
