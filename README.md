@@ -10,7 +10,8 @@
 <br>
 <br>
 
-### **Capstone Project:** EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
+### **Capstone Project:** 
+### EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
 
 ### Python for Data Analysis Bootcamp by [Data Vanguard](https://datavanguard.ph/)
 
