@@ -2,11 +2,18 @@
 
 <br>
 
-# Capstone Project
+# Descriptive and Diagnostic Analytics on COVID-19 data
+- **Descriptive Analytics** tells you **WHAT** happened in the past. 
+- **Diagnostic Analytics** helps you understand **WHY** something happened in the past.
 
-### Python for Data Analysis Bootcamp: [Data Vanguard](https://datavanguard.ph/)
 
-### EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
+<br>
+<br>
+
+### **Capstone Project:** EDA on Python about COVID-19 Cases in the City of Manila from 2020-2023
+
+### Python for Data Analysis Bootcamp by [Data Vanguard](https://datavanguard.ph/)
+
 
 
 <img width="450" alt="Capstone FINAL EDA - revised by Gino" src="https://github.com/Gino-Freud-Hobayan/Exploratory_Data_Analysis_COVID19_on_Python/assets/117270964/d5ca65be-6b73-4637-9209-496cac7e9d0c">
